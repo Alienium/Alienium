@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">We are moroccan innovators, solution makers, engineers, researchers, you name it!<br><br>- 🔭 I’m working as Innovator @ SMARTiLab, EMSI, Rabat, Morocco<br>- 📚 I'm currently learning NLP<br>- ⚡ In my free time I obviously play video games</p>
+<p align="left">We are moroccan innovators, solution makers, engineers, researchers, you name it!<br><br>- 🔭 I’m working as a free Innovator<br>- 📚 I'm currently learning NLP<br>- ⚡ In my free time I obviously play video games</p>
 
 ###
 
